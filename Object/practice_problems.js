@@ -1,3 +1,4 @@
+// https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
 
 var student = {
     name : "David Rayy",
